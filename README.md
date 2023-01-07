@@ -2,7 +2,8 @@
 - 👀 I’m interested in AI/Machine Learning
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me - 09036560055, Twitter page @StellaOkereke7
+
 
 <!---
 stellachiamaka/stellachiamaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
