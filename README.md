@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stellachiamaka
-- 👀 I’m interested in AI/Machine Learning
-- 🌱 I’m currently learning machine learning 
+- 👀 I’m interested in Embedded Sytems
+- 🌱 I’m currently learning machine learning / frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - 09036560055, Twitter page @StellaOkereke7
 
